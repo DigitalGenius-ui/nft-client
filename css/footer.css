@@ -20,6 +20,11 @@
 
 .icons a{
     color:#ffffff;
+    transition: transform 400ms ease-in-out;
+}
+
+.icons a:hover{
+    transform: translateY(-10px);
 }
 
 .footer .navs{

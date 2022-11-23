@@ -27,6 +27,11 @@
     text-align: center;
     color: #fff;
     text-decoration: none;
+    transition: transform 400ms ease-in-out;
+}
+
+.social__btn a:hover{
+    transform: translateY(-10px);
 }
 
 .social__btn div .discord{

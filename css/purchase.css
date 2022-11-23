@@ -50,10 +50,12 @@
     border: none;
     color: #fff;
     cursor: pointer;
+    transition: transform 400ms ease-in-out;
 }
 
 .purchase .purchase__btn:hover{
     background-color: var(--hover);
+    transform: translateY(-10px);
 }
 
 .cart .user{

@@ -100,6 +100,11 @@
 
 .section .deal__btn{
     text-align: center;
+    transition: transform 400ms ease-in-out;
+}
+
+.section .deal__btn:hover{
+    transform: translateY(-10px);
 }
 
 .section button {

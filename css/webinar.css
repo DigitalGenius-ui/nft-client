@@ -49,10 +49,12 @@
     background-color: #2E429B;
     border-radius: 0;
     padding: 0.5rem 1.5rem;
+    transition: transform 400ms ease-in-out;
 }
 
 .content .btn button:hover{
     background-color: #2e429ba1;
+    transform: translateY(-10px);
 }
 
 @media(max-width : 870px){
