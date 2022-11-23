@@ -25,6 +25,7 @@
 
 .icons a:hover{
     transform: translateY(-10px);
+    color: rgba(255, 255, 255, 0.800);
 }
 
 .footer .navs{
