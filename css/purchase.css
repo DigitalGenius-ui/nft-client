@@ -54,7 +54,6 @@
 }
 
 .purchase .purchase__btn:hover{
-    background-color: var(--hover);
     transform: translateY(-10px);
 }
 
