@@ -65,8 +65,8 @@
 }
 
 @media(max-width : 530px){
-    .footer{
+    .footer .footer__content{
         flex-direction: column;
-        gap: 1rem;
+        gap : 0;
     }
 }
